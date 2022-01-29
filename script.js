@@ -1,3 +1,5 @@
+// ハンバーガーメニュー
+
 const burgerBtn = document.querySelector('.bl_burgerBtn');
 const headNav = document.querySelector('.bl_head_gloNav');
 const closeBtn = document.querySelector('.gnav_closeBtn');
